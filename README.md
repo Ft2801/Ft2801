@@ -81,13 +81,14 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **TStar** | Professional C++ software for advanced astronomical image processing and editing. | `C++` `C` |
+| **Open Source Astro Software** | Contribution to a Python-based photo editing tool: refactoring, optimization, and new module development. | `Python` `Python libraries` |
+| **Civil Protection Website** | Complete refactoring of the association's web platform using modern frontend technologies. | `React` `TypeScript` `HTML/CSS` |
+| **Gruppo Astrofili Pescaresi Website** | Complete refactoring of my amateur astronomers association website. | `HTML` `CSS` `JavaScript` |
 | **Agri-food Blockchain** | Decentralized application (dApp) for supply chain traceability with token and CO2 management. | `Solidity` `Web3.py` `Python` |
 | **Energy Market Backend** | Backend architecture for energy demand simulation and management using RESTful APIs. | `Python` `Docker` `REST API` |
 | **Data Science Portfolio** | A suite of projects including NLP (Rasa chatbot), deep learning, and clustering. | `PyTorch` `Rasa` `Spacy` |
-| **Penetration Testing** | Complete Ethical Hacking on Ubuntu system: vulnerability scanning & exploitation. | `Kali` `Metasploit` `Nmap` |
-| **OSS Astrophotography** | Open Source software development (C++) for astronomical image processing and editing. | `C++` `Image Processing` |
 | **Chess AI** | Full chess video game with real-time move analysis using Stockfish engine. | `Python` `Stockfish` `GUI` |
-
 ---
 
 ## 🔭 Astrophotography & Open Source
