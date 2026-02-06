@@ -87,16 +87,17 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 | **Civil Protection Website** | Complete refactoring of the association's web platform using modern frontend technologies. | `React` `TypeScript` `HTML` `CSS` |
 | **Gruppo Astrofili Pescaresi Website** | Complete refactoring of my amateur astronomers association website. | `HTML` `CSS` `JavaScript` |
 | **Cieli Limpidi Website** | Creation of amateur astronomers of Abruzzo association website. | `HTML` `CSS` `JavaScript` |
+| **Data Playground** |	Blazing-fast, local-first desktop app for instant SQL analytics on CSV, Parquet, and JSON files using a columnar engine. |	`Rust` `Tauri` `DuckDB` `React` `TypeScript` |
+| **Alchemist CLI** | High-performance CLI tool for cross-language workflow automation (JSON/YAML to Rust, TS, Zod, Python). | `Rust` `CLI` |
+| **Desktop DB Manager** | Desktop application for creating and managing relational databases, serving as a lightweight alternative to Access. | `Python` `SQL` `GUI` |
+| **Web Apps Suite** | A heterogeneous collection of web apps exploring modern architectural patterns and advanced UI logic. | `TypeScript` `React` `Vite` |
+| **Custom Windowing Systems** | Two distinct implementations for custom window lifecycle management and graphic rendering bypassing OS decorations. | `C++` `TypeScript` `System API` |
 | **Agri-food Blockchain** | Decentralized application (dApp) for supply chain traceability with token and CO2 management. | `Solidity` `Web3.py` `Python` |
 | **Energy Market Backend** | Backend architecture for energy demand simulation and management using RESTful APIs. | `TypeScript` `React` `Docker` `REST API` |
 | **Data Science Portfolio** | A suite of projects including NLP (Rasa chatbot), deep learning, and clustering. | `PyTorch` `Rasa` `Spacy` |
 | **Chess AI** | Full chess video game with real-time move analysis using Stockfish engine. | `Python` `Stockfish` |
 | **Penetration Testing** | Complete Ethical Hacking on Ubuntu: information gathering, vulnerability scanning, exploitation, and privilege escalation. | `Kali Linux` `Metasploit` `Nmap` `Burp Suite` |
 | **Project Management & BI** | Strategic decision support: management documentation, dataset exploration, and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
-| **Desktop DB Manager** | Desktop application for creating and managing relational databases, serving as a lightweight alternative to Access. | `Python` `SQL` `GUI` |
-| **React Web Apps Suite** | A heterogeneous collection of web apps exploring modern architectural patterns and advanced UI logic. | `TypeScript` `React` `Vite` |
-| **Alchemist CLI** | High-performance CLI tool for cross-language workflow automation (JSON/YAML to Rust, TS, Zod, Python). | `Rust` `CLI` |
-| **Custom Windowing Systems** | Two distinct implementations for custom window lifecycle management and graphic rendering bypassing OS decorations. | `C++` `TypeScript` `System API` |
 ---
 
 ## 🔭 Astrophotography & Open Source
