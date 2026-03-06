@@ -112,6 +112,8 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 | **Chess AI** | Full chess video game with real-time move analysis using Stockfish engine. | `Python` `Stockfish` |
 | **Penetration Testing** | Complete Ethical Hacking on Ubuntu: information gathering, vulnerability scanning, exploitation, and privilege escalation. | `Kali Linux` `Metasploit` `Nmap` `Burp Suite` |
 | **Project Management & BI** | Strategic decision support: management documentation, dataset exploration, and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
+| **Predictive Maintenance** | Data pipeline and ML models for fault detection and diagnosis on rotating machinery using vibration and operational TDMS data. | `Python` `Pandas` `Scikit-learn` `Machine Learning` |
+
 ---
 
 ## 🔭 Astrophotography & Open Source
