@@ -34,6 +34,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![. NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -70,11 +71,15 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.py](https://img.shields.io/badge/Web3.py-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009639?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **DevOps, Security & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy-F15E36?style=for-the-badge&logo=envoyproxy&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-0F5298?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -106,6 +111,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 | **Desktop DB Manager** | Desktop application for creating and managing relational databases, serving as a lightweight alternative to Access. | `Python` `SQL` `GUI` |
 | **Web Apps Suite** | A heterogeneous collection of web apps exploring modern architectural patterns and advanced UI logic. | `TypeScript` `React` `Vite` |
 | **Custom Windowing Systems** | Two distinct implementations for custom window lifecycle management and graphic rendering bypassing OS decorations. | `C++` `TypeScript` `System API` |
+| **Zero Trust Architecture** | Microservices infrastructure based on ZTNA principles with mTLS, Envoy Proxy, and central authorization. | `Go` `Docker` `MongoDB` `Envoy` `OPA` |
 | **Agri-food Blockchain** | Decentralized application (dApp) for supply chain traceability with token and CO2 management. | `Solidity` `Web3.py` `Python` |
 | **Energy Market Backend** | Backend architecture for energy demand simulation and management using RESTful APIs. | `TypeScript` `React` `Docker` `REST API` |
 | **Data Science Portfolio** | A suite of projects including NLP (Rasa chatbot), deep learning, and clustering. | `PyTorch` `Rasa` `Spacy` |
