@@ -35,6 +35,8 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![. NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -93,8 +95,10 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 ---
 
 ## 🚀 Key Projects
@@ -103,6 +107,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 | :--- | :--- | :--- |
 | **TStar** | Professional C++ software for advanced astronomical image processing and editing. | `C++` `C` |
 | **Open Source Astro Software** | Contribution to a Python-based photo editing tool: refactoring, optimization, and new module development. | `Python` |
+| **AstroView** | Lightweight, native Android astronomical image viewer (FITS, XISF, TIFF) featuring a custom MTF auto-stretch algorithm and zero external dependencies. | `Kotlin` `Jetpack Compose` `Android` |
 | **Civil Protection Website** | Complete refactoring of the association's web platform using modern frontend technologies. | `React` `TypeScript` `HTML` `CSS` |
 | **Gruppo Astrofili Pescaresi Website** | Complete refactoring of my amateur astronomers association website. | `HTML` `CSS` `JavaScript` |
 | **Cieli Limpidi Website** | Creation of amateur astronomers of Abruzzo association website. | `HTML` `CSS` `JavaScript` |
