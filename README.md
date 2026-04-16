@@ -78,6 +78,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 ![REST API](https://img.shields.io/badge/REST%20API-009639?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **DevOps, Security & Tools**
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Envoy](https://img.shields.io/badge/Envoy-F15E36?style=for-the-badge&logo=envoyproxy&logoColor=white)
 ![OPA](https://img.shields.io/badge/OPA-0F5298?style=for-the-badge&logo=openpolicyagent&logoColor=white)
@@ -97,6 +98,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
@@ -124,6 +126,8 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 | **Penetration Testing** | Complete Ethical Hacking on Ubuntu: information gathering, vulnerability scanning, exploitation, and privilege escalation. | `Kali Linux` `Metasploit` `Nmap` `Burp Suite` |
 | **Project Management & BI** | Strategic decision support: management documentation, dataset exploration, and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
 | **Predictive Maintenance** | Data pipeline and ML models for fault detection and diagnosis on rotating machinery using vibration and operational TDMS data. | `Python` `Pandas` `Scikit-learn` `Machine Learning` |
+| **NL2Scene3D** | Automated pipeline converting natural language to 3D scenes via local LLMs, featuring JSON spatial layout and anti-collision algorithms in Blender. | `Python` `Blender` `Ollama` `LLMs` |
+
 
 ---
 
