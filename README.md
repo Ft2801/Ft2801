@@ -126,8 +126,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 | **Penetration Testing** | Complete Ethical Hacking on Ubuntu: information gathering, vulnerability scanning, exploitation, and privilege escalation. | `Kali Linux` `Metasploit` `Nmap` `Burp Suite` |
 | **Project Management & BI** | Strategic decision support: management documentation, dataset exploration, and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
 | **Predictive Maintenance** | Data pipeline and ML models for fault detection and diagnosis on rotating machinery using vibration and operational TDMS data. | `Python` `Pandas` `Scikit-learn` `Machine Learning` |
-| **NL2Scene3D** | Automated pipeline converting natural language to 3D scenes via local LLMs, featuring JSON spatial layout and anti-collision algorithms in Blender. | `Python` `Blender` `Ollama` `LLMs` |
-
+| **NL2Scene3D** | Automated pipeline for reorganizing chaotic 3D scenes via Multimodal LLMs, featuring JSON spatial layouts and iterative visual feedback refinement in Blender. | `Python` `Blender` `MLLMs` |
 
 ---
 
