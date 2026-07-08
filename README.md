@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fabio Tempera 👋</h1>
+<h1 align="center">Hi, I'm Fabio Tempera</h1>
 <h3 align="center">Computer Engineer | Photographer | Astrophotographer</h3>
 
 <p align="center">
@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  Based in <b>Pescara, Italy</b> 🇮🇹
+  Based in <b>Pescara, Italy</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Computer Engineer** (currently pursuing a Master's degree at UNIVPM) with a strong background in Electronic Engineering. I blend my passion for code with visual arts, working professionally as a **Photographer** and **Astrophotographer**.
 
@@ -27,7 +27,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages, Backend & Desktop**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -103,7 +103,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ My goal is to apply computer science knowledge in complex contexts, developing e
 
 ---
 
-## 🔭 Astrophotography & Open Source
+## Astrophotography & Open Source
 
 Beyond traditional software development, I am an active **Astrophotographer**. I contribute to Open Source software for astronomical image processing, optimizing algorithms in **C++**.
 
