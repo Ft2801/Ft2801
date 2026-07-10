@@ -79,6 +79,12 @@ Computer engineer with a strong background in electronic engineering. The academ
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-009639?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ### DevOps, security & tools
 
@@ -131,6 +137,7 @@ Computer engineer with a strong background in electronic engineering. The academ
 | *Institutional websites* | Development and refactoring of 4 institutional websites: Protezione Civile Volontari Senza Frontiere, Gruppo Astrofili Pescaresi, Cieli Limpidi Abruzzo, and Gruppo Astronomi Teatini. | `React` `TypeScript` `HTML` `CSS` |
 | *Websites for private clients* | Design and development of 4 custom websites for private clients, from content structure to deployment, with a focus on performance and technical SEO. | `TypeScript` `Next.js` `React` |
 | *Hub astronomia abruzzese* | Centralized platform collecting information, events, and activities from astronomy groups across Abruzzo, founded and developed independently. | `Astro` `TypeScript` `React` |
+| *CieloBuio segnalazioni* | PWA multi-role platform for reporting non-compliant lighting installations via certified email (PEC) to Italian municipalities, with automated legal letter generation and territorial approval workflow. Built for CieloBuio, coordinamento per la protezione del cielo notturno. | `Next.js` `TypeScript` `Prisma` `SQLite` `Tailwind` |
 | *Project management & BI* | Strategic decision support covering full management documentation (Business Case, WBS, risk analysis) and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
 
 ---
