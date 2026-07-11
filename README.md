@@ -137,7 +137,7 @@ Computer engineer with a strong background in electronic engineering. The academ
 | *Institutional websites* | Development and refactoring of 4 institutional websites: Protezione Civile Volontari Senza Frontiere, Gruppo Astrofili Pescaresi, Cieli Limpidi Abruzzo, and Gruppo Astronomi Teatini. | `React` `TypeScript` `HTML` `CSS` |
 | *Websites for private clients* | Design and development of 4 custom websites for private clients, from content structure to deployment, with a focus on performance and technical SEO. | `TypeScript` `Next.js` `React` |
 | *Hub astronomia abruzzese* | Centralized platform collecting information, events, and activities from astronomy groups across Abruzzo, founded and developed independently. | `Astro` `TypeScript` `React` |
-| *CieloBuio segnalazioni* | PWA multi-role platform for reporting non-compliant lighting installations via certified email (PEC) to Italian municipalities, with automated legal letter generation and territorial approval workflow. Built for CieloBuio, coordinamento per la protezione del cielo notturno. | `Next.js` `TypeScript` `Prisma` `SQLite` `Tailwind` |
+| *CieloBuio segnalazioni* | PWA multi-role platform for reporting non-compliant lighting installations via certified email (PEC) to Italian municipalities, with automated legal letter generation and territorial approval workflow. Built for CieloBuio, coordinamento per la protezione del cielo notturno. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind` |
 | *Project management & BI* | Strategic decision support covering full management documentation (Business Case, WBS, risk analysis) and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
 
 ---
