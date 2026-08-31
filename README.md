@@ -1,5 +1,5 @@
 <h1 align="center">Fabio Tempera</h1>
-<h3 align="center">Computer engineer · Photographer · Astrophotographer</h3>
+<h3 align="center">Software Engineer · Photographer · Astrophotographer</h3>
 
 <p align="center">
   <a href="https://ft2801.github.io/Portfolio/">
@@ -21,7 +21,7 @@
 
 ## About me
 
-Computer engineer with a strong background in electronic engineering. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
+Software Engineer with a strong background in electronic engineering. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
 
 ---
 
