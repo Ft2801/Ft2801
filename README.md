@@ -21,7 +21,7 @@
 
 ## About me
 
-Software Engineer with a strong background in electronic engineering. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
+Software Engineer with a strong background in electronic engineering. Master's degree in Computer Engineering (Ingegneria Informatica) from Università Politecnica delle Marche, Ancona. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
 
 ---
 
@@ -85,6 +85,7 @@ Software Engineer with a strong background in electronic engineering. The academ
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### DevOps, security & tools
 
@@ -99,6 +100,7 @@ Software Engineer with a strong background in electronic engineering. The academ
 ![Nmap](https://img.shields.io/badge/Nmap-4B7BE5?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![NGROK](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=ngrok&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
@@ -137,6 +139,7 @@ Software Engineer with a strong background in electronic engineering. The academ
 | *Institutional websites* | Development and refactoring of 4 institutional websites: Protezione Civile Volontari Senza Frontiere, Gruppo Astrofili Pescaresi, Cieli Limpidi Abruzzo, and Gruppo Astronomi Teatini. | `React` `TypeScript` `HTML` `CSS` |
 | *Websites for private clients* | Design and development of 4 custom websites for private clients, from content structure to deployment, with a focus on performance and technical SEO. | `TypeScript` `Next.js` `React` |
 | *Hub astronomia abruzzese* | Centralized platform collecting information, events, and activities from astronomy groups across Abruzzo, founded and developed independently. | `Astro` `TypeScript` `React` |
+| *Giovani Astrofili Abruzzesi* | Website and regional network founded independently for young astronomy enthusiasts in Abruzzo, supporting observation nights, astrophotography courses, and collaborations with schools and institutions. | `HTML` `CSS` `JavaScript` |
 | *CieloBuio segnalazioni* | PWA multi-role platform for reporting non-compliant lighting installations via certified email (PEC) to Italian municipalities, with automated legal letter generation and territorial approval workflow. Built for CieloBuio, coordinamento per la protezione del cielo notturno. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind` |
 | *Project management & BI* | Strategic decision support covering full management documentation (Business Case, WBS, risk analysis) and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
 
