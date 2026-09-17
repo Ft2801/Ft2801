@@ -21,7 +21,7 @@
 
 ## About me
 
-Software Engineer with a strong background in electronic engineering. Master's degree in Computer Engineering (Ingegneria Informatica) from Università Politecnica delle Marche, Ancona. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
+Software Engineer and ERP Consultant. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
 
 ---
 
