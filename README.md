@@ -17,13 +17,9 @@
   Based in Pescara, Italy
 </p>
 
----
-
 ## About me
 
-Software Engineer and ERP Consultant. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
-
----
+Software Engineer, web developer and ERP Consultant. The academic path spans distributed architectures, artificial intelligence, computer security, and native software development, with an active contribution to open source projects in the field of astronomical image processing. The professional goal is to apply computer science knowledge in structured contexts, delivering efficient and scalable solutions with a focus on data analysis, AI, and software engineering.
 
 ## Tech stack
 
@@ -114,8 +110,6 @@ Software Engineer and ERP Consultant. The academic path spans distributed archit
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
----
-
 ## Key projects
 
 | Project | Description | Tech |
@@ -143,8 +137,6 @@ Software Engineer and ERP Consultant. The academic path spans distributed archit
 | *CieloBuio segnalazioni* | PWA multi-role platform for reporting non-compliant lighting installations via certified email (PEC) to Italian municipalities, with automated legal letter generation and territorial approval workflow. Built for CieloBuio, coordinamento per la protezione del cielo notturno. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind` |
 | *Project management & BI* | Strategic decision support covering full management documentation (Business Case, WBS, risk analysis) and interactive KPI dashboards. | `Power BI` `Tableau` `Qlik Sense` |
 
----
-
 ## Astrophotography & open source
 
 Beyond traditional software development, an active role is held as an astrophotographer and open source contributor. Development efforts focus on astronomical image processing software, with algorithm optimization and new feature implementation in C++.
@@ -152,8 +144,6 @@ Beyond traditional software development, an active role is held as an astrophoto
 - *Software:* Siril, PixInsight, TStar;
 - *Equipment:* CCD/CMOS cameras, equatorial mounts, telescopes;
 - *Experience:* 100+ hours of observation and 50+ deep sky subjects captured.
-
----
 
 <p align="center">
   <small>© 2026 Fabio Tempera · <a href="https://ft2801.github.io/Portfolio/">View full portfolio</a></small>
